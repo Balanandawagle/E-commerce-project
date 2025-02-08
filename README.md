@@ -1,8 +1,50 @@
-# React + Vite
+# React + Vite : E-commerce Project
+## Installation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. **Clone the repository**:
+    ```sh
+    git clone https://github.com/Balanandawagle/E-commerce-project
+    cd E-commerce-project
+    ```
+2. **Install dependencies**:
+    ```sh
+    npm install
+    ```
 
-Currently, two official plugins are available:
+3. **Run the development server**:
+    ```sh
+    npm run dev
+    ```
+ 
+4. **Install Routes**:
+    ```sh
+      npm install react-router-dom@6
+      ```
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+5. **Install Axios**:
+    ```sh
+    npm install axios
+    ```
+
+
+6. **Install Bootstrap CSS**:
+    ```sh
+    npm i bootstrap@5.3.3
+    ```
+
+7. **Install Sass**:
+    ```sh
+    npm i sass
+    ```
+
+8. **Install AOS**:
+    ```sh
+     npm install aos --save
+    ```
+
+
+ ## Requirements
+- Node.js (Download: https://nodejs.org/)
+- npm (Comes with Node.js)
+
+
